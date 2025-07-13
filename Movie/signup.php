@@ -4,7 +4,7 @@ session_start();
 $host = "localhost";
 $db = "TolaniDB";
 $user = "root";
-$pass = "Emma90nuel";
+$pass = "";
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db;charset=utf8", $user, $pass);

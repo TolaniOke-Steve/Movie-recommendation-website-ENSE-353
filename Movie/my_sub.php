@@ -10,7 +10,7 @@ $username = $_SESSION['username'];
 
 $servername = "localhost";
 $dbUsername = "root";
-$dbPassword = "Emma90nuel";
+$dbPassword = " ";
 $dbName = "TolaniDB";
 
 $con = new mysqli($servername, $dbUsername, $dbPassword, $dbName);

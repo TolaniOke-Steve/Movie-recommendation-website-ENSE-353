@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'TolaniDB';
 $user = 'root';
-$pass = 'Emma90nuel';
+$pass = '';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

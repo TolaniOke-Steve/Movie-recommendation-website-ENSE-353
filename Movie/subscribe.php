@@ -27,7 +27,7 @@ $tmdb_id = $movieIdMap[$movie];
 
 $servername = "localhost";
 $dbUsername = "root";
-$dbPassword = "Emma90nuel";
+$dbPassword = " ";
 $dbname = "TolaniDB";
 
 $conn = new mysqli($servername, $dbUsername, $dbPassword, $dbname);
